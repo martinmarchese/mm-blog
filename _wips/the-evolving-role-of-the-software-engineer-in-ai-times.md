@@ -13,6 +13,8 @@ This is also my very first article ever, full disclosure, I used a little AI mag
 
 I have a background in software engineer and tech consulting, having workd on those roles for a decade. But about 7 ago I shifted from the technical world to the software product management role. A couple of months ago I realized that my tech skills were rusty and I decided to catch up. My first thought was the old-school approach: dive into a new language, learn a hot framework. However, I came across the new reality…. being a software engineer today is way different as it was 7 years ago.
 
+Engineers may now be spending more time reviewing AI-generated code, defining problem requirements, or testing AI outputs. This is impacting the role since engineers who adapt can become higher-level thinkers—focusing on problem-solving, quality, security—rather than just writing code.
+
 Why spend countless hours learning syntax or copy-pasting boilerplate code when an AI agent can whip up decent code in seconds, as long as you know how to talk to it?
 That was when I realized,  It wasn't about catching up to the old game; it was about understanding the new game.
 
@@ -24,7 +26,7 @@ From boilerplate code to basic PoCs and even MVPs, we can ask the AI agents to w
 
 We could even use it to create QE test cases and improve code coverage.
 
-With all this mundane code coding tasks being performed by AI, the software engineer could focus their efforts in higher level tasks, such us system design and architecture, ensuring scalability, security and maintainability.
+With all this mundane code coding tasks being performed by AI, the software engineer could focus their efforts in higher level tasks, such us system design and architecture, ensuring scalability, security and maintainability. Some also argue AI tools could introduce errors or security issues, so engineers still need strong oversight and validation skills.
 
 Bottom line? Let's embrace AI as our main ally. It's about working smarter, focusing on what genuinely matters, and making every minute count.
 
