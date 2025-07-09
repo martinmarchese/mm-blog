@@ -34,4 +34,7 @@ Bottom line? Let's embrace AI as our main ally. It's about working smarter, focu
 What could we expect from our role in the next few years? If we are able to leverage the advantages of AI and work with it (and not against it), we'll definitely become more productive and have more time to innovate and build better solutions.
 
 Also, we'll have more time to spend understanding business needs, better translating it into tech solutions and in consequence, deliver the best value out of our software.
+
+So if you’re a software engineer right now, you don’t need to learn everything new—just get confident in using AI tools, improve your testing and validation skills, and focus on clarifying why and what, not just the “how.” That mindset shift will help you not only survive, but thrive, in this evolving landscape.
+
 Concerning our mid-long term future…. we'll see :)
