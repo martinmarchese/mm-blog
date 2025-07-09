@@ -1,5 +1,6 @@
 ---
-layout: posttitle: "The Evolving Role of the Software Engineer in AI Times"
+layout: post
+title: "The Evolving Role of the Software Engineer in AI Times"
 categories: general tech swe ai
 published: true
 ---
