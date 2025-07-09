@@ -22,7 +22,7 @@ title: MMs Blog
 email: me@martinmarchese.ar
 description:
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://martinmarchese.ar" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.martinmarchese.ar" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: martinmarchese
 github_username:  martinmarchese
 
