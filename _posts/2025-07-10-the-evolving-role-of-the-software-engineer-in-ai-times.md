@@ -5,13 +5,13 @@ categories: general tech swe ai
 published: true
 ---
 
-# The evolving role of the software engineer in AI times
 AI is here, and it has changed the role of the software engineer forever. Time to see how this all plays out.
 ## My epiphany
-![Guy with an epiphany](https://raw.githubusercontent.com/martinmarchese/mm-blog/refs/heads/main/img/epiphany.jpg)
+![Guy with an epiphany](https://raw.githubusercontent.com/martinmarchese/mm-blog/refs/heads/main/img/epiphany.png)
+
 The tech world is buzzing with talk about AI's impact on software engineering, and honestly, who isn't talking about it? There are tons of articles out there, so, this is yet another article about this just because I can. 
 
-This is also my very first article ever. Full disclosure, I used a little AI magic to help me write it. It's pretty basic and simple, since I just want to express myself. Maybe in future articles I'll dive into details — or maybe not :stuck_out_tongue: —.
+This is also my very first article ever. Full disclosure, I used a little AI magic to help me write it. It's pretty basic and simple, since I just want to express myself. Maybe in future articles I'll dive into details — or maybe not 😋 —.
 
 I have a background in software engineering and tech consulting, having worked in those roles for a decade. But about 7 years ago, I shifted from the technical world to the software product management role. A couple of months ago, I realized that my tech skills were rusty, and I decided to catch up. My first thought was the old-school approach: dive into a new language, learn a hot framework. However, I came across the new reality… being a software engineer today is way different from what it was 7 years ago.
 
@@ -37,5 +37,5 @@ Also, we'll have more time to spend understanding business needs, better transla
 
 So, if you’re a software engineer right now, you don’t need to learn anything new—just get confident in using AI tools, improve your testing and validation skills, and focus on clarifying why and what, not just the “how.” That mindset shift will help you not only survive, but thrive, in this evolving landscape. 
 
-Concerning our mid-long-term future…. We'll see :blush:
+Concerning our mid-long-term future…. We'll see 🙃
 
