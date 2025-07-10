@@ -8,7 +8,7 @@ published: true
 # The evolving role of the software engineer in AI times
 AI is here, and it has changed the role of the software engineer forever. Time to see how this all plays out.
 ## My epiphany
-![SWE Using AI](../img/epiphany.jpg)
+![Guy with an epiphany](https://raw.githubusercontent.com/martinmarchese/mm-blog/refs/heads/main/img/epiphany.jpg)
 The tech world is buzzing with talk about AI's impact on software engineering, and honestly, who isn't talking about it? There are tons of articles out there, so, this is yet another article about this just because I can. 
 
 This is also my very first article ever. Full disclosure, I used a little AI magic to help me write it. It's pretty basic and simple, since I just want to express myself. Maybe in future articles I'll dive into details — or maybe not :stuck_out_tongue: —.
@@ -28,7 +28,7 @@ With all these mundane coding tasks being performed by AI, the software engineer
 
 Bottom line? Let's embrace AI as our main ally. It's about working smarter, focusing on what genuinely matters, and making every minute count.
 
-![SWE Using AI](../img/swe-ai.png)
+![SWE Using AI](https://raw.githubusercontent.com/martinmarchese/mm-blog/refs/heads/main/img/swe-ai.png)
 
 ## The near future
 What could we expect from our role in the next few years? If we are able to leverage the advantages of AI and work with it — and not against it —, we'll definitely become more productive and have more time to innovate and build better solutions.
